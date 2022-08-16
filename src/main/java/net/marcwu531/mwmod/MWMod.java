@@ -58,7 +58,7 @@ public class MWMod
     }
 
     private void doClientStuff(final FMLClientSetupEvent event) {
-        // do something that can only be done on the client
+        // do something that can only be done on the client //changes
         // LOGGER.info("Got game settings {}", event.getMinecraftSupplier().get().options);
         event.enqueueWork(() -> {
             RenderTypeLookup.setRenderLayer(ModBlocks.MUSHROOM_SAPLING.get(), RenderType.getCutout());

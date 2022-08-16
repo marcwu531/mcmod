@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "mwmod:mushroom"
+    },
+    "X": {
+      "item": "mwmod:mushroom_block"
+    }
+  },
+  "result": {
+    "item": "mwmod:gu_block"
+  }
+}

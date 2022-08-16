@@ -1,0 +1,6 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "mwmod:block/mushroom_sapling"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "mwmod:mushroom_chestplate"
+  },
+  "addition": {
+    "item": "mwmod:mushroom_wooden_ingot"
+  },
+  "result": {
+    "item": "mwmod:mushroom_wooden_chestplate"
+  }
+}

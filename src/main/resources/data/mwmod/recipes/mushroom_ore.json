@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:cobblestone"
+    },
+    "X": {
+      "item": "mwmod:mushroom_mixture"
+    }
+  },
+  "result": {
+    "item": "mwmod:mushroom_ore"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    " # ",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "mwmod:mushroom_ingot"
+    }
+  },
+  "result": {
+    "item": "mwmod:mushroom_pickaxe"
+  }
+}

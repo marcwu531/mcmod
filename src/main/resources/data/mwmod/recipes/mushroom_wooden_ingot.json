@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mwmod:mushroom_wooden_block"
+    }
+  ],
+
+  "result": {
+    "item": "mwmod:mushroom_wooden_ingot",
+    "count": 9
+  }
+}

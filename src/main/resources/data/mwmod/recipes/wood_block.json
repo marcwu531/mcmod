@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "tag": "minecraft:planks"
+    },
+    "X": {
+      "item": "mwmod:mushroom_block"
+    }
+  },
+  "result": {
+    "item": "mwmod:wood_block"
+  }
+}

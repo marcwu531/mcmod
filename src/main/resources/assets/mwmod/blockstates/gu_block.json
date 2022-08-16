@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model" : "mwmod:block/gu_block"}
+  }
+}

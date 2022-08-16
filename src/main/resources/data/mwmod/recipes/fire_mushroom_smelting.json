@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "mwmod:mushroom"
+  },
+  "result": "mwmod:fire_mushroom",
+  "experience": 0.3,
+  "cookingtime": 75
+}

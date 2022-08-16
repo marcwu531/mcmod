@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "mwmod:block/fire_mushroom_block"
+  }
+}

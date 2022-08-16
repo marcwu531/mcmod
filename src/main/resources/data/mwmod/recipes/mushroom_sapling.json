@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mwmod:mushroom"
+    },
+    {
+      "tag": "minecraft:saplings"
+    }
+  ],
+
+  "result": {
+    "item": "mwmod:mushroom_sapling"
+  }
+}

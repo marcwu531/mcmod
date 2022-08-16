@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mwmod:fire_mushroom_block"
+    }
+  ],
+
+  "result": {
+    "item": "mwmod:fire_mushroom",
+    "count": 9
+  }
+}
